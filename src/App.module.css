@@ -1,0 +1,16 @@
+.StoplightContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Stoplight {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    width: 450px;
+    height: 900px;
+    background-color: black;
+}
